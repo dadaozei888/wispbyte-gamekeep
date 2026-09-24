@@ -2,7 +2,7 @@ name: Wispbyte Auto Login
 
 on:
   schedule:
-    - cron: '16 14 1,15 * *' 
+    - cron: '16 13 1,15 * *' 
   workflow_dispatch:
 
 permissions:
